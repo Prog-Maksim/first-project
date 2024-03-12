@@ -53,9 +53,3 @@ if __name__ == "__main__":
 
  - [подробнее о markdown](https://www.markdownguide.org/cheat-sheet/)
  - [и вот еще](https://gist.github.com/fomvasss/8dd8cd7f88c67a4e3727f9d39224a84c)
-
-## Список определений
-
-term
-: definition
-: fdgsf
