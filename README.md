@@ -53,3 +53,16 @@ if __name__ == "__main__":
 
  - [подробнее о markdown](https://www.markdownguide.org/cheat-sheet/)
  - [и вот еще](https://gist.github.com/fomvasss/8dd8cd7f88c67a4e3727f9d39224a84c)
+
+## Схемы
+
+###### Чтобы сделать схему в markdowm используйте язык mermaid.
+
+```mermaid
+graph LR;
+  untracked -- "git add" --> staged;
+  staged    -- "???"     --> tracked/comitted;
+
+%% стрелка без текста для примера: 
+  A --> B;
+```
